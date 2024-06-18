@@ -10,5 +10,65 @@
 		"appName": "Indian Geography",
 		"appDescription": "Indian Geography in Hindi App",
 		"url": "https://play.google.com/store/apps/details?id=com.fsn.bhugolindia&hl=en"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/hxmWr_KSH8y0OuMQztldFV_O0YspPuYuNR-jgeVNQOE4rShXGNxue0GDe_9Tvh2hR0c3=w480-h960",
+		"appName": "Bihar GK",
+		"appDescription": "Bihar GK in Hindi",
+		"url": "https://play.google.com/store/apps/details?id=com.fsn.biharsamanyagyan"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/vMhXCOkgprHU0b4IUmCp47KYb4rloNEtnlJ6rM3ngySjPwbDLHG752S02mpw9iyWCsjH=w480-h960",
+		"appName": "Indian History",
+		"appDescription": "Learn Indian History in Hindi",
+		"url": "https://play.google.com/store/apps/details?id=com.fsn.indianhistory"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/M_XZzSECuwuiRpDPGeYm4b0a2kRap8Z6R1hBzSj3Df_M8FvoT-r-0hGmHAfL3t95Uhk_=w480-h960",
+		"appName": "Pol Science",
+		"appDescription": "Political Science Hindi",
+		"url": "https://play.google.com/store/apps/details?id=com.freestudynotes.polsciencehin"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/3Jb6xVbTBJxuEViCuHn_eU8LeSmEd72hiEW3gxV_kYUT8fvTnJDjlwzV4MkbNHYgX5M=w480-h960",
+		"appName": "Economics in Hindi",
+		"appDescription": "Learn Economics in Hindi",
+		"url": "https://play.google.com/store/apps/details?id=com.fsn.economicsinhindi"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/xTPof0hNzxb97p9iVDc5SWg6r5P37Ei7YdD6obL7daYV7x_3bT5fdu6IG-wwXbvYSRdW=w480-h960",
+		"appName": "World Geography",
+		"appDescription": "World Geography GK in Hindi",
+		"url": "https://play.google.com/store/apps/details?id=com.fsn.bhugolworld"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/R9oG2MYbsa7bURxvtPOo1tZXYf-P0ZF8T6_8y5LmVfLm-sbh_lkBNam2w74oB1nsXg=w480-h960",
+		"appName": "CTET",
+		"appDescription": "Exam app in Hindi for CTET",
+		"url": "https://play.google.com/store/apps/details?id=com.fsn.ctet"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/6XCXdcn5mDBRd4F7FSDxENt5pwxfF9-7Hm7u_WJj6IGGm4fVhVZToYAN9aCoEqxJVp7y=w480-h960",
+		"appName": "Bihar STET",
+		"appDescription": "Bihar STET in Hindi 2023-24",
+		"url": "https://play.google.com/store/apps/details?id=com.fsn.bihartet"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/41U23O0ntou_JgmrUmLZJ6vl92VpdHhqqtXPTruMB7E3_K6AEdRHyRKR-Wz-Cu6u5lA=w480-h960",
+		"appName": "UPTET Exam",
+		"appDescription": "UPTET Exam app in Hindi",
+		"url": "https://play.google.com/store/apps/details?id=com.fsn.uptet"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/4wPRkX7Yr1TteHVDaBMlwSQD26QAJB8I7mvgwBTIEe8B9cYxHZznjq1nQdk65A0C97na=w480-h960",
+		"appName": "BPSC",
+		"appDescription": "Exam Preparation App for BPSC",
+		"url": "https://play.google.com/store/apps/details?id=com.fsn.bpsc"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/sWeMPiLYfNaRnvdNS5SmMSn8eQD603DLMpsj_xU6toxqCzMHprkOqWRSGj3OiVq7ZIw=w480-h960",
+		"appName": "UP पुलिस",
+		"appDescription": "भर्ती परीक्षा UP पुलिस",
+		"url": "https://play.google.com/store/apps/details?id=com.fsn.uppolice"
 	}
 ]
